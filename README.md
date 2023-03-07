@@ -1,7 +1,7 @@
 # raining-code-canvas
 
 ### Welcome to the magical world of Canvas where you can achieve the unthinkable
-- this is just a basic implementation of the powerful HTML Canvas 
+- [this](https://akshun-01.github.io/raining-code-canvas/) is just a basic implementation of the powerful HTML Canvas 
 
 
 
